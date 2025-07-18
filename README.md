@@ -28,3 +28,8 @@ This project uses sentiment analysis on financial news or social media to predic
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+## To use the project:
+
+1. Download the `stock_tweets.csv` from Stock Tweets for Sentiment Analysis and Prediction which is on Kaggle and `MSFT_prices.csv` from a public repo.
+2. Place them in the `data/raw/` directory:
